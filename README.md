@@ -6,3 +6,7 @@ The purpose of this project is to help Louise analyze her fundraising campaign f
 Analysis and Challenges:
 Various analyses have already been done to help Louise get an idea and discover at a glance the trends and results of other campaigns based on different factors.
 *
+![Theater Outcomes Based on launch date](https://github.com/muhisan/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
+
+![Outcomes Based on Goal](https://github.com/muhisan/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
+
