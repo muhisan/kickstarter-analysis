@@ -12,6 +12,7 @@ she knows already that:
 *the "Theater" Kickstarter campaigns have got the hightest success in United States.(figure1)
 
 *plays(subcategories) has achieved the greatest success among other subcategories in United States.(figure 2)
+![theater/plays outcomes in US](https://github.com/muhisan/kickstarter-analysis/blob/main/resources/Parent%20Category%20outcomes1.png)
 
 we need to provide two last analysis to Louise 
 ## 1. Outcomes Based on Launch Date
