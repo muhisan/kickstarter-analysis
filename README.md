@@ -5,4 +5,4 @@ The purpose of this project is to help Louise analyze her fundraising campaign f
 
 Analysis and Challenges:
 Various analyses have already been done to help Louise get an idea and discover at a glance the trends and results of other campaigns based on different factors.
-
+*
